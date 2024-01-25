@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258652218395",
+    "project_id": "helloapps-crm",
+    "storage_bucket": "helloapps-crm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258652218395:android:d0758d3cb1df99597b44be",
+        "android_client_info": {
+          "package_name": "com.helloappscrmfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZSX8nJHNzEu0EhNZc5bTmCAG2b3xZOMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
